@@ -146,7 +146,7 @@ const InputURL = () => {
             <Space direction="vertical" style={{ width: '100%', marginTop: '10px' }}>
                 <Card style={{ padding: 6 }}>
                     <div>
-                        <h1 style={{ fontSize: '22px' }}>Phishing links and url checker</h1>
+                        <h1 style={{ fontSize: '22px' }}>Phishing Links (URL) & Email Checker</h1>
                         <p style={{ fontSize: '18px' }}>Enter URLs to check if they are safe to visit</p>
                     </div>
                     <TextArea

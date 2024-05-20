@@ -23,11 +23,13 @@ const MainHeader = () => {
           flexDirection: 'row'
         }}
       >
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_IUH.png/800px-Logo_IUH.png"
-          height={60}
-          alt="Logo"
-        />
+        <a href="/home" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_IUH.png/800px-Logo_IUH.png"
+            height={60}
+            alt="Logo"
+          />
+        </a>
       </div>
     </div>
   );
